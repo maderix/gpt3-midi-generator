@@ -10,7 +10,7 @@ Nevertheless, this is a fun experiment and I hope you find it useful.
 
 Listen to some samples here:
 
-![]https://twitter.com/originalmaderix/status/1534951205339660290?s=20&t=B0dcYkyHiZ1rXMr1MG04dA
+![Explainer] https://twitter.com/originalmaderix/status/1534951205339660290?s=20&t=B0dcYkyHiZ1rXMr1MG04dA
 
 
 
