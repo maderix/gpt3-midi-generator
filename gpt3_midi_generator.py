@@ -162,6 +162,8 @@ finally:
     notes_file.write(generated_notes)
     notes_file.close()
     #generate midi notes
+    if not os.path.exists('generated'):
+        os.makedirs('generated')
     generated_wav_path = 'generated/' + '_'.join(args.prompt.split(' ')) + '.wav'
     print('Generating midi notes for ' + args.prompt + '...')
     print(notes_file_path, generated_wav_path)
