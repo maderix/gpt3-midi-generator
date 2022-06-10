@@ -15,10 +15,10 @@ https://twitter.com/originalmaderix/status/1534951205339660290?s=20&t=B0dcYkyHiZ
 
 
 ## Requirements
-. pygame
-. wave
-. openai api
-. numpy
+- pygame
+- wave
+- openai api
+- numpy
 
 # Installation
 
@@ -37,39 +37,39 @@ To use, simply run `python gpt3_midi_generator.py`. By default, this will genera
 
 You can customize the behavior with the following arguments:
 
-## `--model` 
+#### `--model` 
 The model to use for generation.Currently, the following models are supported:
  'text-davinci-002'
  'text-curie-001'
  'text-babbage-001'
  'text-ada-001'
 
-## `--prompt`
+#### `--prompt`
 
 The prompt to use for gpt-3. This should be a string of space-separated phrase like 'Star Wars theme' or 'The original spiderman theme'.
 
-## `--length`
+#### `--length`
 
 The length of the generated MIDI in notes.
 
-## `--temperature`
+#### `--temperature`
 
 The temperature to use for gpt-3. This should be a float between 0 and 1, where 0 is the most deterministic and 1 is the most random.
 
 
-## `--play_song`
+#### `--play_song`
 
 Whether or not to play the generated song. This requires pygame to be installed.
 
 ## Mixer settings
 
-## `--channels`
+#### `--channels`
 Default is 2.
 
-## `--sample_rate`
+#### `--sample_rate`
 Default is 44100.
 
-## `--sample_width`
+#### `--sample_width`
 Default is 2.
 
 More settings to be added in future
