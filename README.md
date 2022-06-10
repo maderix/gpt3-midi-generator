@@ -15,10 +15,10 @@ https://twitter.com/originalmaderix/status/1534951205339660290?s=20&t=B0dcYkyHiZ
 
 
 ## Requirements
-pygame
-wave
-openai api
-numpy
+. pygame
+. wave
+. openai api
+. numpy
 
 # Installation
 
