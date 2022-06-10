@@ -76,10 +76,15 @@ Default is 2.
 More settings to be added in future
 
 ## OpenAI API
+<p>
+To use this tool, you need to sign up for an OpenAI API key. You can do so [here](https://openai.com/api/).</p>
+<p>
+The request made by this tool WILL INCUR BILLING TO YOUR OPENAI ACCOUNT!
+Please measure usage accordingly.
 
-To use this tool, you need to sign up for an OpenAI API key. You can do so [here](https://openai.com/api/).
-The request made by this tool will incur billing to your OpenAI account! Please measure usage accordingly.
-Alternatively you can use a smaller model for generation (curie, babbage, etc.) by using the `--model` flag. In my experience, the curie is almost as good as davinci but incurs significantly less cost.
+Alternatively, you can use a smaller model for generation (curie, babbage, etc.) by using the `--model` flag.
+In my experience, the curie is almost as good as davinci but incurs significantly less cost.
+</p>
 
 ## Issues
 Please report any issues by raising a bug request on this repo.
