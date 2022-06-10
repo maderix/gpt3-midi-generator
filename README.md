@@ -15,18 +15,11 @@ https://twitter.com/originalmaderix/status/1534951205339660290?s=20&t=B0dcYkyHiZ
 
 
 ## Requirements
-<<<<<<< Updated upstream
-- pygame
-- wave
-- openai api
-- numpy
-=======
 1. Python 3.6+
 2. pygame
 3. wave
 4. openai api
 5. numpy
->>>>>>> Stashed changes
 
 # Installation
 
